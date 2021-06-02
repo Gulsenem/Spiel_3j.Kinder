@@ -20,11 +20,11 @@ body
     display:flex;
     justify-content: center;
 }
-#box1, #box2
+#box>div
 {
     width: 150px;
     height: 150px;
-    border: 1px solid black;
+    
     margin: 10px;
 }
 
